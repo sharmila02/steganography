@@ -6,7 +6,7 @@ This is a temporary script file.
 """
 
 # Python program implementing Image Steganography
- 
+ #hello everyone
 # PIL module is used to extract
 # pixels of image and modify it
 from PIL import Image
