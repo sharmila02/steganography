@@ -12,3 +12,4 @@ Learning Tkinter
 - https://realpython.com/python-gui-tkinter/
 - https://www.tutorialspoint.com/python/python_gui_programming.htm
 - https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/
+- https://pythonspot.com/tk-file-dialogs/
